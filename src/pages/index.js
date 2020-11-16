@@ -13,7 +13,7 @@ const Pages = ({ user }) => {
   return (
     <Router>
       <Switch>
-        <Route exact path="/wesley-cv-react-gitconnected">
+        <Route exact path="/wesley-cv">
           <Redirect to="/me" />
         </Route>
         <Route path="/me">

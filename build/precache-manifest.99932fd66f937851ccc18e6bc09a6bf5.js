@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81c4b4b02c0308e512265582cf728317",
+    "revision": "0cfcd7102cbb6f950f6a3d008a44f754",
     "url": "/wesley-cv-react-gitconnected/index.html"
   },
   {
-    "revision": "1d602bc9b4a0950e986d",
+    "revision": "dd4845f8b630681c60fa",
     "url": "/wesley-cv-react-gitconnected/static/css/main.4c418406.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wesley-cv-react-gitconnected/static/js/2.351d147b.chunk.js"
   },
   {
-    "revision": "1d602bc9b4a0950e986d",
-    "url": "/wesley-cv-react-gitconnected/static/js/main.a943f1a8.chunk.js"
+    "revision": "dd4845f8b630681c60fa",
+    "url": "/wesley-cv-react-gitconnected/static/js/main.21b1f767.chunk.js"
   },
   {
     "revision": "c5ef79eeea818a338f85",
