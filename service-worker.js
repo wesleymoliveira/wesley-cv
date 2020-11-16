@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wesley-cv-react-gitconnected/precache-manifest.2c40fcdc3110208356a8fb89da985ebe.js"
+  "/wesley-cv-react-gitconnected/precache-manifest.99932fd66f937851ccc18e6bc09a6bf5.js"
 );
 
 self.addEventListener('message', (event) => {
