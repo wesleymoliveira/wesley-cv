@@ -2,7 +2,7 @@
 
 ## LIVE DEMO ON GitHub pages
 
-https://wesleymoliveira.github.io/wesley-cv-react-gitconnected/
+https://wesleymoliveira.github.io/wesley-cv/
 
 ![MobileView](https://github.com/wesleymoliveira/wesley-cv-react-gitconnected/blob/main/src/assets/CV%20mobile%20view.png)
 
