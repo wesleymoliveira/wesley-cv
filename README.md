@@ -4,9 +4,9 @@
 
 https://wesleymoliveira.github.io/wesley-cv/
 
-![MobileView](https://github.com/wesleymoliveira/wesley-cv-react-gitconnected/blob/main/src/assets/CV%20mobile%20view.png)
+![MobileView](https://github.com/wesleymoliveira/wesley-cv/blob/main/src/assets/CV%20mobile%20view.png)
 
-![DesktopView](https://github.com/wesleymoliveira/wesley-cv-react-gitconnected/blob/main/src/assets/CV%20home.png)
+![DesktopView](https://github.com/wesleymoliveira/wesley-cv/blob/main/src/assets/CV%20home.png)
 
 ## Built using the gitconnected.com user portfolio API
 
