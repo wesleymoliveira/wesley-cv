@@ -13,6 +13,9 @@ const Pages = ({ user }) => {
   return (
     <Router>
       <Switch>
+        <Route exact path="/">
+          <Redirect to="/me" />
+        </Route>
         <Route exact path="/wesley-cv">
           <Redirect to="/me" />
         </Route>

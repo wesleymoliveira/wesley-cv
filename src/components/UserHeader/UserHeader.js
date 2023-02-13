@@ -1,5 +1,4 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
 import { ArrowRight16 } from "@carbon/icons-react";
 
 import {
@@ -12,10 +11,9 @@ import {
 } from "./styles";
 
 const UserHeader = ({ user }) => {
-  const location = useLocation();
 
   return (
-    <HeaderContainer isHome={location.pathname === "/"}>
+    <HeaderContainer>
       <Header>
         <Image src={user.basics.picture} />
         <div>
