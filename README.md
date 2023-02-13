@@ -4,11 +4,9 @@
 
 https://wesleymoliveira.github.io/wesley-cv/
 
-![MobileView](https://github.com/wesleymoliveira/wesley-cv/blob/main/src/assets/CV%20mobile%20view.png)
+![DesktopView](https://github.com/wesleymoliveira/wesley-cv/blob/main/src/assets/Screenshot%20from%202023-02-13%2018-32-43.png)
 
-![DesktopView](https://github.com/wesleymoliveira/wesley-cv/blob/main/src/assets/CV%20home.png)
-
-## Built using the gitconnected.com user portfolio API
+## Built using the gitconnected.com API
 
 Data is supplied by the gitconnected.com API and fetches my newest data on each page load.
 
